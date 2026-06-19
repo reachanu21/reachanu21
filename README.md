@@ -19,30 +19,30 @@ Description:
 A multi‑agent architecture where each agent has a specialized role.
 Includes memory, context passing, and retrieval‑augmented reasoning.
 
-Features:
+  Features:
 
-Agent‑to‑agent communication
+  Agent‑to‑agent communication
 
-RAG‑based knowledge retrieval
+  RAG‑based knowledge retrieval
 
-Streamlit UI
+  Streamlit UI
 
-Modular orchestration
+  Modular orchestration
 
 2. RAG Pipeline for Enterprise Knowledge Retrieval
 Tech: Python, FAISS, Embeddings, Azure Storage
 Description:  
 A full RAG pipeline that ingests documents, generates embeddings, stores them in a vector DB, and retrieves context for LLM responses.
 
-Features:
+  Features:
 
-Chunking + embedding generation
+  Chunking + embedding generation
 
-FAISS vector search
+  FAISS vector search
 
-Context injection
+  Context injection
 
-Streamlit interface
+  Streamlit interface
 
 3. Azure Synapse + ADF Pipelines
 Tech: Azure Synapse, ADF, SQL
