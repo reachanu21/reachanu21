@@ -1,4 +1,4 @@
-Anu — Data Engineering + AI Engineering Portfolio
+Data Engineering + AI Engineering Portfolio
 A collection of my hands‑on projects in Data Engineering, AI Engineering, and LLM‑based systems.
 I specialize in Azure, Microsoft Fabric, Snowflake, and applied AI.
 
@@ -60,6 +60,6 @@ Description:
 Designed fact/dimension models, optimized warehouses, and built SQL transformations.
 
 📫 Contact
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: www.linkedin.com/in/anumanimaran
 
-Email: [Your Email]
+Email: anupama.pillay@gmail.com
